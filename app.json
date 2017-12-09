@@ -1,0 +1,7 @@
+{
+  "name": "DigiBPMuleIPaaS",
+  "description": "DigiBP Showcase: Mule iPaaS",
+  "repository": "https://github.com/DigiBP/digibp-mule-ipaas",
+  "addons": ["heroku-postgresql:hobby-dev"],
+  "keywords": ["FHNW"]
+}
