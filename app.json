@@ -2,6 +2,5 @@
   "name": "DigiBPMuleStandalone",
   "description": "DigiBP Showcase: Mule Standalone",
   "repository": "https://github.com/DigiBP/digibp-mule-standalone",
-  "addons": ["heroku-postgresql:hobby-dev"],
   "keywords": ["FHNW"]
 }
