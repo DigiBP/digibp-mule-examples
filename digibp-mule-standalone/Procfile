@@ -1,0 +1,1 @@
+web: java -Dhttp.port=$PORT -cp target/classes/:target/dependency/* ch.fhnw.digibp.mule.MuleStarter
